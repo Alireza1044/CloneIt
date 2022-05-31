@@ -1,5 +1,3 @@
-If you are facing Error, where Heroku Showing Select Time Zone then just replace the code of Docker file with below code:
-
 FROM ubuntu:20.04
 
 WORKDIR /usr/src/app
